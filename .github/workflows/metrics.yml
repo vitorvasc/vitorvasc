@@ -1,19 +1,22 @@
 name: Example
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 
 jobs:
   metrics:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
     steps:
-      - name: Metrics embed
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           template: terminal
           filename: metrics.terminal.svg
