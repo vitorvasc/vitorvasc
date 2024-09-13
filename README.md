@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />](https://linkedin.com/in/vvasconcellos)
 &nbsp;
-  [<img src="https://img.shields.io/badge/bio%20livre-0077b5?style=for-the-badge&logo=mercadopago&logoColor=white&logoSize=auto&color=ffe602&labelColor=3483fa" height="35" />]([https://linkedin.com/in/vvasconcellos](https://biolivre.com.br/vasconcellos))
+  [<img src="https://img.shields.io/badge/bio%20livre-0077b5?style=for-the-badge&logo=mercadopago&logoColor=white&logoSize=auto&color=ffe602&labelColor=3483fa" height="35" />](https://biolivre.com.br/vasconcellos)
   
 </div>
 
