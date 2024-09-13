@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p>
+
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vvasconcellos)
+
 </p>
-  
+
 <p align="center">
   <picture>
     <img src="/metrics.terminal.svg" alt="Metrics">
