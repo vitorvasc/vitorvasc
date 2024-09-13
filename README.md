@@ -24,7 +24,5 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  <picture>
     <img src="/metrics.terminal.svg" alt="Metrics">
-  </picture>
 </p>
